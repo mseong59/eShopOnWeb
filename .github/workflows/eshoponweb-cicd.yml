@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-tenten3
   LOCATION: northcentralus
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: de5897fb-326c-4b3a-9e9d-f4dcbf7c90f9eshoponweb-webapp46795080
+  SUBSCRIPTION-ID: de5897fb-326c-4b3a-9e9d-f4dcbf7c90f9
   WEBAPP-NAME: eshoponweb-webapp46795080
 
 
